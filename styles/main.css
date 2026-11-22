@@ -1,0 +1,8 @@
+:root {
+  --bg: #fafafa;
+  --fg: #18181b;
+}
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+}
